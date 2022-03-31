@@ -1,0 +1,26 @@
+{
+  "name": "NGLibs-Math",
+  "version": "1.0.0",
+  "description": "Rewrite the math lib  from THREE.JS  in Native TypeScript form",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gary7693/NGLibs-Math.git"
+  },
+  "keywords": ["NADI", "Three.js","math"],
+  "author": "gary7693",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gary7693/NGLibs-Math/issues"
+  },
+  "homepage": "https://github.com/gary7693/NGLibs-Math#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "files": ["lib/**/*"]
+}

@@ -184,4 +184,3 @@ export declare class Matrix4 implements Matrix {
     toArrayMatrix4(array: Matrix4Tuple): Matrix4Tuple;
 }
 export {};
-//# sourceMappingURL=Matrix4.d.ts.map

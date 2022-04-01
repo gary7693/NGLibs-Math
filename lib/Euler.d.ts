@@ -38,4 +38,3 @@ export declare class Euler {
     static RotationOrders: string[];
     static DefaultOrder: string;
 }
-//# sourceMappingURL=Euler.d.ts.map

@@ -369,4 +369,3 @@ export declare class Vector2 implements Vector {
      */
     random(): this;
 }
-//# sourceMappingURL=Vector.d.ts.map

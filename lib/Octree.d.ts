@@ -25,4 +25,3 @@ export declare class Octree<T> {
         distance: number;
     }, filter?: (T: any) => boolean): boolean;
 }
-//# sourceMappingURL=Octree.d.ts.map

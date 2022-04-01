@@ -120,4 +120,3 @@ export declare class Quaternion {
     static slerp(qa: Quaternion, qb: Quaternion, qm: Quaternion, t: number): Quaternion;
     static multiplyQuaternionsFlat(dst: number[], dstOffset: number, src0: number[], srcOffset0: number, src1: number[], srcOffset1: number): number[];
 }
-//# sourceMappingURL=Quaternion.d.ts.map

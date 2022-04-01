@@ -86,4 +86,3 @@ export declare namespace MathUtils {
      */
     function solveAngleSumSPC(b: number, c: number): number;
 }
-//# sourceMappingURL=MathUtils.d.ts.map

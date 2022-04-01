@@ -86,4 +86,3 @@ export declare class Color {
     toArray(array?: number[], offset?: number): number[];
     random(): this;
 }
-//# sourceMappingURL=Color.d.ts.map

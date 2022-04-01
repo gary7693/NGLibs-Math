@@ -107,4 +107,3 @@ export declare class Matrix3 implements Matrix {
      */
     multiplyMatrices(a: Matrix3, b: Matrix3): Matrix3;
 }
-//# sourceMappingURL=Matrix.d.ts.map

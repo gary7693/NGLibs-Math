@@ -231,4 +231,3 @@ export declare class Vector3 implements Vector {
     static averageList(list: Vector3[]): Vector3;
 }
 export {};
-//# sourceMappingURL=Vector3.d.ts.map

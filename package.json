@@ -1,9 +1,9 @@
 {
   "name": "nglibs-math",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Rewrite the math lib  from THREE.JS  in Native TypeScript form",
-  "main": "",
-  "types": "",
+  "main": "lib/Math.js",
+  "types": "lib/Math.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build" : "tsc"
